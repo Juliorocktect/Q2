@@ -1,3 +1,14 @@
 *.class
-*.jar
+/build/
+.vscode/
+/CMakeFiles/
+*.cmake
+comp
+Makefile
+CMakeCache.txt
+*.a
+CMakeFiles
+cmake-build-debug
 *.lst
+*.jar
+target/

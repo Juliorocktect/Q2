@@ -1,4 +1,5 @@
-package com.Q2.include; 
+package com.inf.morse.include;
+ 
 
 /**
  * <p>

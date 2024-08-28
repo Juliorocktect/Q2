@@ -1,7 +1,5 @@
-package com.Q2.include;
-import com.Q2.include.*;
+package com.inf.morse.include;
 /**
-
  * <p>
  * Materialien zu den zentralen NRW-Abiturpruefungen im Fach Informatik ab 2018
  * </p>
